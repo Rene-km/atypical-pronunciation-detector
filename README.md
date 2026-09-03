@@ -10,8 +10,6 @@ decoded with a greedy CTC decoder. The resulting transcript is aligned to the
 target phrase word-by-word to produce a pronunciation score and highlight the
 words that need work.
 
-> Built as a university software-engineering project (DCU CSC1049) by a team of
-> two. This repository contains the application source only.
 
 ---
 
